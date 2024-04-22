@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**hiyoung1999/hiyoung1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**hiyoung1999/hiyoung1999** is a ✨master's students✨ comes from Chongqing Jiaotong University.
 
 - 🔭 I’m currently working on biped robot control.
 - 🌱 I’m currently learning about Reinforcement Learning, Model Predictive Control and stuff. 
